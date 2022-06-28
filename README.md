@@ -1,3 +1,5 @@
+## PRAKTIKUM 11
+
 # Lab11Web
 
 | Nama    | Agus sanjaya    |
@@ -222,4 +224,11 @@ footer.php
 File app/view/template/header.php
 ![Lab11Web](img/header%20php.png)
 File app/view/template/footer.php
-![Lab11Web](img/footer%20php.png)
+![Lab11Web](img/FOOTER%20PHP.png)<br>
+
+Kemudian ubah file app/view/about.php seperti berikut.
+![Lab11Web](img/header%20footer.png)
+
+Selanjutnya refresh tampilan pada alamat http://localhost:8080/about
+![Lab11Web](img/layout%20sederhana.png)
+
